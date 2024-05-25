@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ## Usage
 1. Embedding Knowledge into the Chatbot.
-    - Add your pdfs or docx files to the `data_law` folder.
+    - Add your pdfs to the `data_law` folder.
     - Run the following command to ingest the knowledge into the chatbot.
     ```
     python embed.py
