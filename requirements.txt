@@ -13,7 +13,6 @@ huggingface-hub==0.20.2
 idna==3.4
 imageio==2.34.0
 importlib_metadata==7.1.0
-intel-openmp==2021.4.0
 ipykernel==6.25.1
 ipython==8.12.3
 ipython-genutils==0.2.0
@@ -64,7 +63,6 @@ tensorboard==2.13.0
 tensorboard-data-server==0.7.1
 tensorflow==2.13.0
 tensorflow-estimator==2.13.0
-tensorflow-intel==2.13.0
 tensorflow-io-gcs-filesystem==0.31.0
 tokenizers==0.15.0
 torch==2.3.0
